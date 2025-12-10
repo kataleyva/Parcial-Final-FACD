@@ -1,0 +1,545 @@
+NATIONAL HEALTH EXPENDITURES BY TYPE OF SERVICE AND SOURCE OF FUNDS:  CALENDAR YEARS 1960 to 2023
+Expenditure Amount (Millions)
+Total National Health Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+     Public Health Activity
+                          Federal  
+                          State and Local
+     Investment
+         Research
+         Structures & Equipment
+Total CMS Programs (Medicaid, CHIP and Medicare)
+POPULATION
+Health Consumption Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+     Public Health Activity
+                          Federal  
+                          State and Local
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Personal Health Care
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Hospital Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Physician and Clinical Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Dental Services Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Other Professional Services Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Home Health Care Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Other Non-Durable Medical Products Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Prescription Drug Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Durable Medical Equipment Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Nursing Care Facilities and Continuing Care Retirement Communities
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Other Health, Residential, and Personal Care Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Total Administration and Total Net Cost of Health Insurance Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+State and Local  Administration Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Federal Administration Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Net Cost of Health Insurance Expenditures
+     Out of pocket
+     Health Insurance
+          Private Health Insurance
+          Medicare
+          Medicaid (Title XIX)
+                          Federal  
+                          State and Local
+          CHIP (Title XIX and Title XXI)
+                          Federal  
+                          State and Local
+         Department of Defense
+         Department of Veterans Affairs
+     Other Third Party Payers and Programs
+         Worksite Health Care
+         Other Private Revenues
+         Indian Health Services 
+         Workers' Compensation
+         General Assistance
+         Maternal/Child Health
+                          Federal  
+                          State and Local
+         Vocational Rehabilitation
+                          Federal  
+                          State and Local
+         Other Federal Programs*
+         SAMHSA
+         Other State and Local Programs**
+         School Health
+Total CMS Programs (Medicaid, CHIP and Medicare)
+Public Health Activity
+  Federal Funds
+  State/Local Funds
+Research
+     Private 
+     Federal Gov't
+     State and Local Gov't
+Total Structures and Equipment
+     Private 
+     Federal Gov't
+     State and Local Gov't
+     Structures
+         Private 
+         Federal Gov't
+         State and Local Gov't
+     Equipment
+          Private 
+          Federal Gov't
+          State and Local Gov't
+* Other Federal Programs include OEO, Federal General and Medical, Federal General and Medical NEC, and High Risk Pools under ACA
+** Other State and Local Programs include State and Local Subsidies and TDI
+NOTE: Numbers may not add to totals due to rounding. Dollar amounts shown are in current dollars.   "" Not applicable; Medicare and Medicaid became effective July 1966.  The Children's Health Insurance Program became effective in 1998.
+SOURCE:  Centers for Medicare & Medicaid Services, Office of the Actuary, National Health Statistics Group.
