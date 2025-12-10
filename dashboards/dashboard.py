@@ -11,7 +11,9 @@ st.set_page_config(
 st.title("National Health Expenditures (1960 – 2023)")
 st.markdown("Exploración jerárquica y tendencias históricas del gasto nacional en salud.")
 
-df_transformado = pd.read_csv("datos_jerarquicos.csv")  
+import os
+csv_path = os.path.join(os.path.dirname(__file__), "..", "data", "datos_jerarquicos.csv")
+df_transformado = pd.read_csv(csv_path)
 
 
 df_transformado['Value'] = pd.to_numeric(df_transformado['Value'], errors='coerce')
